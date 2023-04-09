@@ -149,6 +149,9 @@ ul {
   display: flex;
   align-items: center;
 }
+.card .plan .price .value h4 {
+  margin: 5px;
+}
 
 .card .plan a {
   text-decoration: underline;
