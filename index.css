@@ -68,8 +68,10 @@ ul {
   background-color: var(--paleBlue);
   position: relative;
   z-index: 1;
-  margin: 20px auto;
+  height: 100vh;
+  margin: 0 auto;
   text-align: center;
+  padding: 50px;
 }
 
 .card::before {
